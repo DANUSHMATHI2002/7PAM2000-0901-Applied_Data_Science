@@ -1,6 +1,6 @@
 # 7PAM2000-0901-Applied_Data_Science
 Statistics and Trends Assignment-1
-# 1. INTRODUCTION
+# 1. Introduction
 The influence of technology on our daily lives, especially with regard to sleep quality, have drawn a lot of
 attention in the current digital era. This study investigates the relationship between daytime tiredness and a
 number of factors including breakfast routines, sleep duration, and phone dependence. The goal of
@@ -25,7 +25,7 @@ sleep quality. Outliers may suggest people with severe inadequate sleep.
 believe they get enough sleep and those who do not.
 3. Descriptive Statistics: Summarized statistics provide insights into the variation of sleep deficit
 across various groups.
-# 5. CONCLUSION
+# 5. Conclusion
 Individuals reported an average sleep duration of 6.66 hours and an average daily tiredness level of 3.08,
 indicating that individuals who did not get enough sleep (less than 8 hours) may feel more restless. There are
 43 people with high phone dependency and 61 with low phone dependency, indicating that reduced phone
